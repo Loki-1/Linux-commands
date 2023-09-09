@@ -30,8 +30,6 @@ the last 10 lines
 
 1. ps To display the currently working processes
 2. top Display all running process
-
-**Unix/Linux Command Reference**
 3. kill pid Kill the process with given pid
 4. killall proc Kill all the process named proc
 5. pkill pattern Will kill all processes matching the pattern
@@ -89,7 +87,7 @@ the last 10 lines
 5. wget file Download file
 6. wget -c file Continue a stopped download
 
-Unix/Linux Command Reference
+**Unix/Linux Command Reference**
 **Shortcuts**
 1. ctrl+c Halts the current command
 2. ctrl+z Stops the current command, resume with fg in the foreground or bg in the background
