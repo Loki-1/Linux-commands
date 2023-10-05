@@ -1,7 +1,7 @@
 # Linux-commands
 Linux Basic Commands
 
-**File Commands**
+***File Commands***
 
 1. ls Directory listing
 2. ls -al Formatted listing with hidden files
@@ -26,7 +26,7 @@ the last 10 lines
 20. mv file1 file2 Rename or move file1 to file2,if file2 is an existing directory
 21. ln -s file link Create symbolic link link to file
 
-**Process management**
+***Process management***
 
 1. ps To display the currently working processes
 2. top Display all running process
@@ -37,7 +37,7 @@ the last 10 lines
 7. fg Brings the most recent job to foreground
 8. fg n Brings job n to the foreground
 
-**File permission**
+***File permission***
 1. chmod octal file Change the permission of file to octal,which can be found separately for user,group,world by adding,
 • 4-read(r)
 • 2-write(w)
