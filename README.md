@@ -1,4 +1,4 @@
-# Linux-commands
+# Linux-commands. 
 Linux Basic Commands
 
 ***File Commands***
@@ -24,7 +24,7 @@ the last 10 lines
 18. cp file1 file2 Copy the contents of file1 to file2
 19. cp -r dir1 dir2 Copy dir1 to dir2;create dir2 if not present
 20. mv file1 file2 Rename or move file1 to file2,if file2 is an existing directory
-21. ln -s file link Create symbolic link link to file
+21. ln -s file link Create symbolic link link to file. 
 
 ***Process management***
 
