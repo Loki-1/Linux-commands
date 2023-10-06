@@ -1,4 +1,4 @@
-# Linux-commands. 
+# Linux-commands..
 Linux Basic Commands
 
 ***File Commands***
